@@ -1,0 +1,750 @@
+[ 2016-05-05T09:45:58+08:00 ] 106.37.165.146 /?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000137s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001043s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015204s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+NOTIC: [8] Use of undefined constant __ROOT__ - assumed '__ROOT__' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Behavior/ContentReplaceBehavior.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant __ROOT__ - assumed '__ROOT__' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Behavior/ContentReplaceBehavior.class.php 第 42 行.
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001798s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.121748s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.122489s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008943s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009494s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 103 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 104 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 105 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011778s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012433s ]
+NOTIC: [2] stream_socket_accept(): accept failed: Connection timed out /mnt/HD/web/workerman-chat/Workerman/Worker.php 第 1508 行.
+
+[ 2016-05-05T09:51:21+08:00 ] 106.37.165.146 /?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000161s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008952s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012093s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+NOTIC: [8] Use of undefined constant __ROOT__ - assumed '__ROOT__' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Behavior/ContentReplaceBehavior.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant __ROOT__ - assumed '__ROOT__' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Behavior/ContentReplaceBehavior.class.php 第 42 行.
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001316s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001907s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.122029s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.122765s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008207s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008722s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 103 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 104 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 105 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011196s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011840s ]
+
+[ 2016-05-05T09:51:21+08:00 ] 106.37.165.146 /?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000243s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011092s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011115s ]
+
+[ 2016-05-05T09:52:23+08:00 ] 106.37.165.146 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000154s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009284s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011904s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] filemtime(): stat failed for ./Apps/Runtime/Cache/2ee990fc73e9873c0464189d98639483bbf5ea50.file.index.html.php /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_resource.php 第 683 行.
+
+[ 2016-05-05T09:52:23+08:00 ] 106.37.165.146 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000158s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010259s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008948s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] filemtime(): stat failed for ./Apps/Runtime/Cache/2ee990fc73e9873c0464189d98639483bbf5ea50.file.index.html.php /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_resource.php 第 683 行.
+NOTIC: [2] stream_socket_accept(): accept failed: Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Worker.php 第 1508 行.
+
+[ 2016-05-05T09:54:17+08:00 ] 106.37.165.146 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000166s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010141s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012442s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] filemtime(): stat failed for ./Apps/Runtime/Cache/2ee990fc73e9873c0464189d98639483bbf5ea50.file.index.html.php /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_resource.php 第 683 行.
+NOTIC: [2] stream_socket_accept(): accept failed: Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Worker.php 第 1508 行.
+
+[ 2016-05-05T09:54:17+08:00 ] 106.37.165.146 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000271s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009324s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011774s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] filemtime(): stat failed for ./Apps/Runtime/Cache/2ee990fc73e9873c0464189d98639483bbf5ea50.file.index.html.php /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_resource.php 第 683 行.
+NOTIC: [2] stream_socket_accept(): accept failed: Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Worker.php 第 1508 行.
+
+[ 2016-05-05T09:55:10+08:00 ] 106.37.165.146 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009029s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011160s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] filemtime(): stat failed for ./Apps/Runtime/Cache/2ee990fc73e9873c0464189d98639483bbf5ea50.file.index.html.php /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_resource.php 第 683 行.
+NOTIC: [2] unlink(./Apps/Runtime/Cache/2ee990fc73e9873c0464189d98639483bbf5ea50.file.index.html.php): No such file or directory /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_write_file.php 第 49 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.805202s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.805984s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.012504s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013043s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 103 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 104 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 105 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012833s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013572s ]
+NOTIC: [2] stream_socket_accept(): accept failed: Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Worker.php 第 1508 行.
+
+[ 2016-05-05T09:55:10+08:00 ] 106.37.165.146 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000147s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009715s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008501s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] filemtime(): stat failed for ./Apps/Runtime/Cache/2ee990fc73e9873c0464189d98639483bbf5ea50.file.index.html.php /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_resource.php 第 683 行.
+NOTIC: [2] stream_socket_accept(): accept failed: Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Worker.php 第 1508 行.
+NOTIC: [8] fwrite(): send of 8192 bytes failed with errno=11 Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Connection/TcpConnection.php 第 246 行.
+NOTIC: [8] fwrite(): send of 8192 bytes failed with errno=11 Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Connection/TcpConnection.php 第 464 行.
+
+[ 2016-05-05T09:56:13+08:00 ] 106.37.165.146 /?room_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000163s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010238s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011926s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012715s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.149937s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.150626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006139s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006603s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 103 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 104 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 105 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009750s ]
+
+[ 2016-05-05T09:56:13+08:00 ] 106.37.165.146 /?room_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000184s ]
+INFO: [ app_init ] --END-- [ RunTime:0.018955s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013688s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.198212s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.199015s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.012187s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012799s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 103 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 104 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 105 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.016167s ]
+INFO: [ app_end ] --END-- [ RunTime:0.017054s ]
+NOTIC: [2] stream_socket_accept(): accept failed: Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Worker.php 第 1508 行.
+NOTIC: [2] stream_socket_accept(): accept failed: Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Worker.php 第 1508 行.
+
+[ 2016-05-05T09:56:17+08:00 ] 106.37.165.146 /?room_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000157s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008927s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013028s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.739538s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.740227s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.011098s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011727s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 103 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 104 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 105 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011408s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012036s ]
+
+[ 2016-05-05T09:56:32+08:00 ] 106.37.165.146 /?room_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008012s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009066s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.114107s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.114691s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006286s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006676s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 103 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 104 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 105 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008287s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008743s ]
+NOTIC: [2] stream_socket_accept(): accept failed: Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Worker.php 第 1508 行.
+NOTIC: [2] stream_socket_accept(): accept failed: Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Worker.php 第 1508 行.
+
+[ 2016-05-05T09:56:33+08:00 ] 106.37.165.146 /?room_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000173s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009174s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017819s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018572s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.145078s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.145739s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008866s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009422s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 103 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 104 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 105 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012103s ]
+NOTIC: [2] stream_socket_accept(): accept failed: Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Worker.php 第 1508 行.
+
+[ 2016-05-05T09:57:14+08:00 ] 106.37.165.146 /?room_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000238s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010282s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011300s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.144302s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.144892s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006779s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007172s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 103 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 104 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 105 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008691s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009180s ]
+NOTIC: [2] stream_socket_accept(): accept failed: Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Worker.php 第 1508 行.
+
+[ 2016-05-05T09:57:14+08:00 ] 106.37.165.146 /?room_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000237s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010317s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013039s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.774677s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.775366s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.010501s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010933s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 103 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 104 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 105 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008884s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009408s ]
+NOTIC: [8] fwrite(): send of 8192 bytes failed with errno=11 Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Connection/TcpConnection.php 第 246 行.
+NOTIC: [8] fwrite(): send of 8192 bytes failed with errno=11 Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Connection/TcpConnection.php 第 464 行.
+
+[ 2016-05-05T09:57:25+08:00 ] 106.37.165.146 /?room_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000168s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009483s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012416s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.149869s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.150572s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009231s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009823s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 103 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 104 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 105 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012173s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012789s ]
+
+[ 2016-05-05T09:58:11+08:00 ] 106.37.165.146 /?room_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000149s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008291s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013116s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.638957s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.639591s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009487s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009960s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 103 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 104 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 105 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008911s ]
+
+[ 2016-05-05T09:58:11+08:00 ] 106.37.165.146 /?room_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000140s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008933s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012361s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.148034s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.148772s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009651s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010174s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 103 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 104 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 105 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010981s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011670s ]
+NOTIC: [2] stream_socket_accept(): accept failed: Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Worker.php 第 1508 行.
+NOTIC: [2] stream_socket_accept(): accept failed: Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Worker.php 第 1508 行.
+
+[ 2016-05-05T09:59:04+08:00 ] 106.37.165.146 /?room_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007657s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008606s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.105838s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.106375s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006333s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006773s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 103 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 104 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 105 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008435s ]
+NOTIC: [2] stream_socket_accept(): accept failed: Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Worker.php 第 1508 行.
+NOTIC: [2] stream_socket_accept(): accept failed: Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Worker.php 第 1508 行.
+NOTIC: [2] stream_socket_accept(): accept failed: Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Worker.php 第 1508 行.
+
+[ 2016-05-05T09:59:04+08:00 ] 106.37.165.146 /?room_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000239s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010200s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012400s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.931652s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.932353s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.018080s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018623s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 103 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 104 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 105 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013204s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013851s ]
+NOTIC: [2] stream_socket_accept(): accept failed: Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Worker.php 第 1508 行.
+
+[ 2016-05-05T10:00:43+08:00 ] 106.37.165.146 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000162s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009482s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012263s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.148695s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.149471s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008884s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009467s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 103 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 104 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 105 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011806s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012458s ]
+
+[ 2016-05-05T10:00:43+08:00 ] 106.37.165.146 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000151s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008865s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012272s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.151703s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.152505s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008829s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009490s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 103 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 104 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 105 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011944s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012593s ]
+NOTIC: [2] stream_socket_accept(): accept failed: Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Worker.php 第 1508 行.
+NOTIC: [2] stream_socket_accept(): accept failed: Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Worker.php 第 1508 行.
+NOTIC: [8] fwrite(): send of 8192 bytes failed with errno=11 Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Connection/TcpConnection.php 第 246 行.
+NOTIC: [8] fwrite(): send of 8192 bytes failed with errno=11 Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Connection/TcpConnection.php 第 464 行.
+NOTIC: [8] fwrite(): send of 8192 bytes failed with errno=11 Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Connection/TcpConnection.php 第 464 行.
+NOTIC: [8] fwrite(): send of 8192 bytes failed with errno=11 Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Connection/TcpConnection.php 第 464 行.
+NOTIC: [8] fwrite(): send of 8192 bytes failed with errno=11 Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Connection/TcpConnection.php 第 464 行.
+NOTIC: [8] fwrite(): send of 8192 bytes failed with errno=11 Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Connection/TcpConnection.php 第 464 行.
+NOTIC: [8] fwrite(): send of 8192 bytes failed with errno=11 Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Connection/TcpConnection.php 第 464 行.
+NOTIC: [8] fwrite(): send of 8192 bytes failed with errno=11 Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Connection/TcpConnection.php 第 464 行.
+NOTIC: [8] fwrite(): send of 5021 bytes failed with errno=11 Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Connection/TcpConnection.php 第 464 行.
+
+[ 2016-05-05T10:01:26+08:00 ] 106.37.165.146 /Public/js/swfobject.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000154s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009243s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013622s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.149338s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.150078s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008862s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009425s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 103 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 104 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 105 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011444s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012276s ]
+NOTIC: [2] stream_socket_accept(): accept failed: Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Worker.php 第 1508 行.
+NOTIC: [2] stream_select(): unable to select [4]: Interrupted system call (max_fd=7) /mnt/HD/web/workerman-chat/Workerman/Events/Select.php 第 236 行.
+
+[ 2016-05-05T10:01:41+08:00 ] 106.37.165.146 /?room_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000165s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010339s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013374s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.149949s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.150641s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008826s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009418s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 103 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 104 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 105 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012003s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012760s ]
+NOTIC: [2] stream_socket_accept(): accept failed: Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Worker.php 第 1508 行.
+
+[ 2016-05-05T10:02:20+08:00 ] 106.37.165.146 /?room_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000167s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015174s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012059s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.149601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.150338s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008922s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009485s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 103 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 104 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 105 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011758s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012514s ]
+NOTIC: [8] Constant APP_DEBUG already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 28 行.
+NOTIC: [8] Constant APP_PATH already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 31 行.
+NOTIC: [8] Constant SITE_URL already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 33 行.
+NOTIC: [8] Constant CSS_URL already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 34 行.
+NOTIC: [8] Constant JS_URL already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 35 行.
+NOTIC: [8] Constant IMG_URL already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 36 行.
+NOTIC: [8] Constant SWF_URL already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 37 行.
+NOTIC: [8] Constant EXEC_URL already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 38 行.
+NOTIC: [8] Constant MEMORY_LIMIT_ON already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 19 行.
+NOTIC: [8] Constant THINK_VERSION already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 25 行.
+NOTIC: [8] Constant URL_COMMON already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 28 行.
+NOTIC: [8] Constant URL_PATHINFO already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 29 行.
+NOTIC: [8] Constant URL_REWRITE already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 30 行.
+NOTIC: [8] Constant URL_COMPAT already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 31 行.
+NOTIC: [8] Constant EXT already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 34 行.
+NOTIC: [8] Constant MAGIC_QUOTES_GPC already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 74 行.
+NOTIC: [8] Constant IS_CGI already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 76 行.
+NOTIC: [8] Constant IS_WIN already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 77 行.
+NOTIC: [8] Constant IS_CLI already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 78 行.
+
+[ 2016-05-05T10:02:20+08:00 ] 106.37.165.146 /?room_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000170s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009302s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012228s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.124695s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.125406s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005944s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006380s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 103 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 104 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 105 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009096s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009602s ]
+NOTIC: [2] stream_socket_accept(): accept failed: Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Worker.php 第 1508 行.
+NOTIC: [2] stream_socket_accept(): accept failed: Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Worker.php 第 1508 行.
+NOTIC: [2] stream_socket_accept(): accept failed: Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Worker.php 第 1508 行.
+NOTIC: [8] Constant APP_DEBUG already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 28 行.
+NOTIC: [8] Constant APP_PATH already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 31 行.
+NOTIC: [8] Constant SITE_URL already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 33 行.
+NOTIC: [8] Constant CSS_URL already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 34 行.
+NOTIC: [8] Constant JS_URL already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 35 行.
+NOTIC: [8] Constant IMG_URL already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 36 行.
+NOTIC: [8] Constant SWF_URL already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 37 行.
+NOTIC: [8] Constant EXEC_URL already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 38 行.
+NOTIC: [8] Constant MEMORY_LIMIT_ON already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 19 行.
+NOTIC: [8] Constant THINK_VERSION already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 25 行.
+NOTIC: [8] Constant URL_COMMON already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 28 行.
+NOTIC: [8] Constant URL_PATHINFO already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 29 行.
+NOTIC: [8] Constant URL_REWRITE already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 30 行.
+NOTIC: [8] Constant URL_COMPAT already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 31 行.
+NOTIC: [8] Constant EXT already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 34 行.
+NOTIC: [8] Constant MAGIC_QUOTES_GPC already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 74 行.
+NOTIC: [8] Constant IS_CGI already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 76 行.
+NOTIC: [8] Constant IS_WIN already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 77 行.
+NOTIC: [8] Constant IS_CLI already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 78 行.
+
+[ 2016-05-05T10:04:24+08:00 ] 106.37.165.146 /img/workerman-todpole.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000178s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010003s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012310s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.148130s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.148904s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008542s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009138s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 103 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 104 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 105 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011996s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012730s ]
+NOTIC: [2] stream_select(): unable to select [4]: Interrupted system call (max_fd=7) /mnt/HD/web/workerman-chat/Workerman/Events/Select.php 第 236 行.
+
+[ 2016-05-05T10:04:52+08:00 ] 106.37.165.146 /?room_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000179s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009275s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010874s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011602s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.147923s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.148651s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008987s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009574s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 103 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 104 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 105 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011563s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012284s ]
+NOTIC: [8] Constant APP_DEBUG already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 28 行.
+NOTIC: [8] Constant APP_PATH already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 31 行.
+NOTIC: [8] Constant SITE_URL already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 33 行.
+NOTIC: [8] Constant CSS_URL already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 34 行.
+NOTIC: [8] Constant JS_URL already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 35 行.
+NOTIC: [8] Constant IMG_URL already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 36 行.
+NOTIC: [8] Constant SWF_URL already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 37 行.
+NOTIC: [8] Constant EXEC_URL already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 38 行.
+NOTIC: [8] Constant MEMORY_LIMIT_ON already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 19 行.
+NOTIC: [8] Constant THINK_VERSION already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 25 行.
+NOTIC: [8] Constant URL_COMMON already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 28 行.
+NOTIC: [8] Constant URL_PATHINFO already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 29 行.
+NOTIC: [8] Constant URL_REWRITE already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 30 行.
+NOTIC: [8] Constant URL_COMPAT already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 31 行.
+NOTIC: [8] Constant EXT already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 34 行.
+NOTIC: [8] Constant MAGIC_QUOTES_GPC already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 74 行.
+NOTIC: [8] Constant IS_CGI already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 76 行.
+NOTIC: [8] Constant IS_WIN already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 77 行.
+NOTIC: [8] Constant IS_CLI already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 78 行.
+
+[ 2016-05-05T10:04:52+08:00 ] 106.37.165.146 /?room_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000167s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009327s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010694s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011895s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.154932s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.155680s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009605s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 103 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 104 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 105 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011906s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012552s ]
+NOTIC: [2] stream_socket_accept(): accept failed: Resource temporarily unavailable /mnt/HD/web/workerman-chat/Workerman/Worker.php 第 1508 行.
+NOTIC: [8] Constant APP_DEBUG already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 28 行.
+NOTIC: [8] Constant APP_PATH already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 31 行.
+NOTIC: [8] Constant SITE_URL already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 33 行.
+NOTIC: [8] Constant CSS_URL already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 34 行.
+NOTIC: [8] Constant JS_URL already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 35 行.
+NOTIC: [8] Constant IMG_URL already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 36 行.
+NOTIC: [8] Constant SWF_URL already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 37 行.
+NOTIC: [8] Constant EXEC_URL already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/index.php 第 38 行.
+NOTIC: [8] Constant MEMORY_LIMIT_ON already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 19 行.
+NOTIC: [8] Constant THINK_VERSION already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 25 行.
+NOTIC: [8] Constant URL_COMMON already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 28 行.
+NOTIC: [8] Constant URL_PATHINFO already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 29 行.
+NOTIC: [8] Constant URL_REWRITE already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 30 行.
+NOTIC: [8] Constant URL_COMPAT already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 31 行.
+NOTIC: [8] Constant EXT already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 34 行.
+NOTIC: [8] Constant MAGIC_QUOTES_GPC already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 74 行.
+NOTIC: [8] Constant IS_CGI already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 76 行.
+NOTIC: [8] Constant IS_WIN already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 77 行.
+NOTIC: [8] Constant IS_CLI already defined /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/ThinkPHP.php 第 78 行.
+
+[ 2016-05-05T10:14:08+08:00 ] 106.37.165.146 /img/workerman-todpole.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000135s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007389s ]
+NOTIC: [8] Undefined index: REQUEST_TIME /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/Dispatcher.class.php 第 208 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007860s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008374s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.134769s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.135636s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015370s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016091s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 103 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 104 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /mnt/HD/web/workerman-chat/Workerman/Worker.php:1298) /mnt/HD/web/workerman-chat/Applications/Chat/App/ThinkPHP/Library/Think/View.class.php 第 105 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.024883s ]
+INFO: [ app_end ] --END-- [ RunTime:0.027396s ]
+NOTIC: [2] stream_select(): unable to select [4]: Interrupted system call (max_fd=7) /mnt/HD/web/workerman-chat/Workerman/Events/Select.php 第 236 行.
+
